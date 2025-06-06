@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://icab.co.il",
+      "permanent": true
+    }
+  ]
+}
